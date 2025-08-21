@@ -126,7 +126,7 @@ const Header = () => {
                       <Link to="/team" className={`nav-link ${isActive("/team") ? "active" : ""}`}>Team</Link>
                     </li>
                     <li className="nav-item">
-                      <Link to="/contact" className={`nav-link ${isActive("/contact") ? "active" : ""}`}>Contact</Link>
+                      <Link to="/contact" className={`nav-link ${isActive("/contact") ? "active" : ""}`}>Contactt</Link>
                     </li>
                   </ul>
                 </div>
