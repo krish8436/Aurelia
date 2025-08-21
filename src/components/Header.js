@@ -123,10 +123,10 @@ const Header = () => {
                       <Link to="/about" className={`nav-link ${isActive("/about") ? "active" : ""}`}>About</Link>
                     </li>
                     <li className="nav-item">
-                      <Link to="/team" className={`nav-link ${isActive("/team") ? "active" : ""}`}>Team</Link>
+                      <Link to="/team" className={`nav-link ${isActive("/team") ? "active" : ""}`}>Teams</Link>
                     </li>
                     <li className="nav-item">
-                      <Link to="/contact" className={`nav-link ${isActive("/contact") ? "active" : ""}`}>Contactt</Link>
+                      <Link to="/contact" className={`nav-link ${isActive("/contact") ? "active" : ""}`}>Contact</Link>
                     </li>
                   </ul>
                 </div>
