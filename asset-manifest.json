@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Aurelia/static/css/main.1f079478.css",
-    "main.js": "/Aurelia/static/js/main.b5fb1f6d.js",
+    "main.js": "/Aurelia/static/js/main.fb8eb568.js",
     "static/js/453.c9546334.chunk.js": "/Aurelia/static/js/453.c9546334.chunk.js",
     "static/media/banner1.jpg": "/Aurelia/static/media/banner1.84cb7cebe67097d75ac4.jpg",
     "static/media/banner2.jpg": "/Aurelia/static/media/banner2.25e4920fd314fb42403a.jpg",
@@ -18,11 +18,11 @@
     "static/media/next.svg": "/Aurelia/static/media/next.76d2d2c8c8622b6f9910.svg",
     "static/media/prev.svg": "/Aurelia/static/media/prev.2ee203f29523c07f30f1.svg",
     "main.1f079478.css.map": "/Aurelia/static/css/main.1f079478.css.map",
-    "main.b5fb1f6d.js.map": "/Aurelia/static/js/main.b5fb1f6d.js.map",
+    "main.fb8eb568.js.map": "/Aurelia/static/js/main.fb8eb568.js.map",
     "453.c9546334.chunk.js.map": "/Aurelia/static/js/453.c9546334.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f079478.css",
-    "static/js/main.b5fb1f6d.js"
+    "static/js/main.fb8eb568.js"
   ]
 }
